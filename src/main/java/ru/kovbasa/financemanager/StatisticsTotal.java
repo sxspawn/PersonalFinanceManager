@@ -1,15 +1,11 @@
 package ru.kovbasa.financemanager;
 
-import java.util.AbstractMap;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-
-import ru.kovbasa.financemanager.statistics.StatisticsYear;
 import ru.kovbasa.financemanager.model.Shopping;
 import ru.kovbasa.financemanager.model.ShoppingList;
 import ru.kovbasa.financemanager.services.CategoryList;
+import ru.kovbasa.financemanager.statistics.StatisticsYear;
+
+import java.util.*;
 
 public class StatisticsTotal {
 
